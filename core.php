@@ -19,6 +19,7 @@ if (isset($_POST['btn_register']))
             if(!mysqli_stmt_prepare($stmt,$sql))
             {
                 echo "SQL Statement Failed.";
+                echo "Yes"
                 return;
             }else
             {
