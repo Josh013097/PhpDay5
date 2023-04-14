@@ -17,7 +17,7 @@
         <div class="row">
         <div class="col-md-6">
             <p></p>
-            <meduim>Username</meduim>
+            <meduim>Username </meduim>
             <input type="text" value="" class="form-control" placeholder = "Enter Name">
        
 
